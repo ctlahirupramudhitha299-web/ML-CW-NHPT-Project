@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+matplotlib
+Pillow
+ollama
+faiss-cpu
+langchain
+langchain-core
