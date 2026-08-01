@@ -1,0 +1,12 @@
+path: C:/Users/HP/OneDrive/Desktop/ML Applications practical/ML CW NHPT_Project/Crack_Hole_Normal_Dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+
+names:
+  - normal
+  - crack
+  - hole
