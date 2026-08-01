@@ -32,13 +32,13 @@ A Retrieval-Augmented Generation (RAG) assistant powered by Ollama is integrated
 
 ML-CW-NHPT-Project/
 
- app.py
- requirements.txt
- README.md
- dataset/
-      └─data.yaml
-weights/
-      └── best.pt
+ app.py >
+ >requirements.txt
+ >README.md
+ >dataset/
+      data.yaml
+ >weights/
+      best.pt
 
 ## Technologies
 
